@@ -20,7 +20,7 @@ console.log(namesAges);
 
 // const arr2 = [];
 // arr2[8] = "Vadim";
-// console.log(arr2);
+// console.log(arr2);08
 // console.log(arr2[1]);
 // console.log(arr2.length);
 
