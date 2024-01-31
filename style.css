@@ -1,0 +1,12 @@
+body {
+    background-image: url("wald.jpg");
+
+  }
+  
+  .mainOrderList {
+    font-size: 25px;
+    color: red;
+  }
+  a {
+    color: whitesmoke;
+  }
